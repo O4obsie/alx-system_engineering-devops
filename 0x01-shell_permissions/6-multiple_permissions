@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+x test && chmod o+r test
+chmod ug+x,o+r test
