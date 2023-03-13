@@ -1,2 +1,2 @@
 #!/bin/bash
-tails -n 1 ./iacta  >> iacta
+tails -n 1 ./iacta  >> ./iacta
